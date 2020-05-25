@@ -8,5 +8,7 @@
   - HTML + CSS + Vanilla JavaScript
 
 ## Reach Out To Me! 🐦
+
 Subscribe to my [YouTube Channel](https://www.youtube.com/c/IjemmaOnwuzulike)
+
 Follow or DM me on [Twitter](https://twitter.com/ijemmaohno)
