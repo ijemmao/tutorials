@@ -4,7 +4,7 @@
 
 
 ## Tutorials 👩🏾‍💻
-* [Tier List](./tier-list/README.md)
+* [Tier List](https://github.com/ijemmao/tutorials/tree/master/tier-list)
   - HTML + CSS + Vanilla JavaScript
 
 ## Reach Out To Me! 🐦
